@@ -1,5 +1,8 @@
 body {
     background-color: pink;
+h1 {
+  color: purple;
+}
 }
 .header {
     font-size: 15em;
@@ -7,7 +10,4 @@ body {
     margin: 0;
     color:aqua;
 }
-h1 {
-  color: purple;
-    text-align:center
-}
+
